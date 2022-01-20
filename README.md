@@ -9,4 +9,4 @@
 * DOI: [10.12202/j.0476-0301.2021171](http://www.bnujournal.com/en/article/doi/10.12202/j.0476-0301.2021171) 
 
 ### Poster
-![poster](https://github.com/ZhaoCenLiang/vegetation-map-of-Qinghai-Tibet-Plateau/blob/main/poster.png?raw=true)
+![poster](./poster.png)
