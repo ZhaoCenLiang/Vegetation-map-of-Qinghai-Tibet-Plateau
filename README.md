@@ -11,11 +11,11 @@ It showed that the overall accuracy (78.09%, kappa coefficient is 0.75) of the r
 * Author: Hui Zhang, Cengliang Zhao, Wenquan Zhu<sup>*</sup>
 * DOI: [10.12202/j.0476-0301.2021171](http://www.bnujournal.com/en/article/doi/10.12202/j.0476-0301.2021171) 
 
-### Ensemble menmbers
+### Ensemble members
 ![products](./products.png)
 ### Comparison results
 ![comparison](./comparison.png)
-### Classification ressult
+### Classification result
 ![result](./Classification.jpg)
 ### Quality labels
 ![quality label](./quality.png)
