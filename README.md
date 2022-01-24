@@ -4,7 +4,8 @@ Owing to climate changes and human activities, the vegetation cover, species com
 Therefore, we design a more suitable plan for vegetation classification, and produced an ensenmble product from current land cover products and a self-designed vegetation map. We also operted a comparsion with these land cover products by using the validation samples from multiple sources.
 <br><br>
 It showed that the overall accuracy (78.09%, kappa coefficient is 0.75) of the real vegetation map of Qinghai-Tibet Plateau increased by 18.84%~37.17%, especially for grassland and shrub.
-
+### Classification results
+* QHTP_PFT_Classification.zip
 ### Article
 * Title: A Real Vegetation Map of Qinghai-Tibet Plateau Produced with the Integrated Classification Method based on Multi-source Data Products
 * Journal: Journal of Beijing Normal University (Natural Science) 
